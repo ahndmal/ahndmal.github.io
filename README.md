@@ -1,1 +1,7 @@
-# AndriiMaliuta.github.io
+# Links
+
+## Java
+
+* Baeldung [www.baeldung.com/]
+
+## JavaScript
