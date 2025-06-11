@@ -25,7 +25,11 @@
         <p class="code">git branch -v</p>
         <p>To order by most recent commit, use</p>
       <p class="code">git branch -v --sort=committerdate</p>
+git for-each-ref --sort=-committerdate refs/heads/
 
+# Or using git branch (since version 2.7.0)
+git branch --sort=-committerdate  # DESC
+git branch --sort=committerdate  # ASC
       </div>
 </div>
 
